@@ -1,0 +1,82 @@
+
+
+.c70B603{color:#70B603;}
+.c04DC00{color:#04DC00;}
+.c323C46{color:#323C46;}
+.cC3C8D0{color:#C3C8D0;}
+.cFF8F53{color:rgba(255, 77, 0, 1);}
+.cFFCC00{color:#FFCC00;}
+.cFF564E{color:#FF564E;}
+.cD89B00{color:#D89B00;}
+.c4B4212{color:#4B4212;}
+.cfff06{color:rgba(255,255,255,0.6)}
+.cEB3F4A{color:#EB3F4A;}
+.cFF1D0E{color:#FF1D0E;}
+.cFF5841{color:#FF5841;}
+.c3891ED{color: #3891ED;}
+.c4566DD{color: #4566DD;}
+.cDE0160{color: #DE0160;}
+.c689ED7{color: #689ED7;}
+.c9E66FB{color:#9E66FB;}
+.c736AE1{color:#736AE1;}
+.c76CECA{color:#76CECA;}
+.cFF3EC9{color: #FF3EC9;}
+.c75B9EB{color: #75B9EB;}
+.c8000FF{color: #8000FF;}
+.c8A5A05{color: #8A5A05;}
+.c0DD11B{color: #0DD11B;}
+.cD10D0D{color: #D10D0D;}
+.c0D70D1{color: #0D70D1;}
+
+.bcFCFBFA{background-color: #FCFBFA;}
+.bcF6F6F6{background-color: #f6f6f6;}
+.bcF5F5F5{background-color: #f5f5f5;}
+.bcF4F7FC{background-color: #F4F7FC;}
+.bcF7F8FA{background-color: #F7F8FA;}
+.bcEEEEEE{background-color: #EEEEEE;}
+.bcD89B00{background-color: rgba(216, 155, 0, 0.1);}
+.bcFF8F53{background-color: #FF8F53;}
+.bcfff06{background-color: rgba(255,255,255,0.6);}
+.bcFFE8E8{background-color: #FFE8E8;}
+.bcEB3F4A{background-color:#EB3F4A;}
+.bcC1C1C1{background-color:#C1C1C1;}
+.bcFF0F00{background-color:#FF0F00;}
+.bcFF5841{background-color:#FF5841;}
+.bc3891ED{background-color:#3891ED;}
+.bc4566DD{background-color:#4566DD;}
+.bcDE0160{background-color:#DE0160;}
+.bc689ED7{background-color:#689ED7;}
+.bc9E66FB{background-color:#9E66FB;}
+.bc736AE1{background-color:#736AE1;}
+.bc76CECA{background-color:#76CECA;}
+.bcF1FFFE{background-color: #F1FFFE;}
+.bc76CECA01{background-color: rgba(118, 206, 202, 0.1);}
+.bcFFF5E4{background-color: #FFF5E4;}
+.bc8000FF{background-color: #8000FF;}
+.bc0000FE{background-color: #0000FE;}
+.bcD9B2FF{background-color: #D9B2FF;}
+.bcF9F2FF{background-color: #F9F2FF;}
+
+.blgFDCCCA{background: linear-gradient(87deg, #FDCCCA 0%, rgba(255,255,255,0) 100%);}
+.blg9E66FB{background: linear-gradient(173deg, #9E66FB 0%, #736AE1 100%);}
+.blg7D76CE{background: linear-gradient(180deg, #7D76CE 0%, #6961C5 100%);}
+.blgFF5E48{background: linear-gradient(180deg, #FF5E48 0%, #FB3116 100%);}
+.bbFFCC002{border-bottom: 2upx solid #FFCC00;}
+.bFFCC002{border: 2upx solid #FFCC00;}
+.bFFE7BE1{border: 2upx solid #FFE7BE;}
+
+.b8000FF1{border: 1px solid #8000FF;}
+.b9E66FB1{border: 1px solid #9E66FB;}
+.b76CECA1{border: 1px solid #76CECA;}
+.bFF3EC91{border: 1px solid #FF3EC9;}
+.b75B9EB1{border: 1px solid #75B9EB;}
+.bbF7F8FA1{border-bottom: 1px solid #F7F8FA;}
+.bbF5F5F51{border-bottom: 1px solid #f5f5f5;}
+.btF5F5F51{border-top: 1px solid #f5f5f5;}
+
+.status_bar{height: var(--status-bar-height);}
+
+.mt-80{
+	margin-top:-80upx;
+}
+.h800 {height: 800rpx;} .h900 {height: 900rpx;}

@@ -1,0 +1,137 @@
+/* 背景颜色 */
+.themebc {
+	background-color: #F4F7FC;
+	min-height: 100vh;
+}
+
+button {
+	border-radius: 0;
+}
+
+uni-page-body,
+image {
+	display: block;
+}
+page {
+	/* height:100%; */
+	color: #000;
+	font-family: "Microsoft YaHei", "宋体", Arial, "\5B8B\4F53", Helvetica, sans-serif;
+	font-size: 28upx;
+	background-color: #ffffff;
+	box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+	display: none;
+	width: 0 !important;
+	height: 0 !important;
+	-webkit-appearance: none;
+	background: transparent;
+}
+
+.none-list {
+	width: 100%;
+	font-size: 28upx;
+	font-weight: 400;
+	text-align: center;
+	color: #333333;
+	line-height: 70vh;
+}
+.center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.input_click {
+	pointer-events: none;
+}
+body *,
+page view {
+	box-sizing: border-box;
+	flex-shrink: 0;
+}
+
+body {
+	font-family: PingFangSC-Regular, Roboto, Helvetica Neue, Helvetica, Tahoma,
+		Arial, PingFang SC-Light, Microsoft YaHei;
+	margin: 0;
+}
+
+button {
+	margin: 0;
+	padding: 0;
+	border: 1px solid transparent;
+	outline: none;
+	background-color: transparent;
+}
+
+button:active {
+	opacity: 0.6;
+}
+
+.flex-col {
+	display: flex;
+	flex-direction: column;
+}
+
+.flex-row {
+	display: flex;
+	flex-direction: row;
+}
+
+.justify-start {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.justify-center {
+	display: flex;
+	justify-content: center;
+}
+
+.justify-end {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.justify-evenly {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.justify-around {
+	display: flex;
+	justify-content: space-around;
+}
+
+.justify-between {
+	display: flex;
+	justify-content: space-between;
+}
+
+.align-start {
+	display: flex;
+	align-items: flex-start;
+}
+
+.align-center {
+	display: flex;
+	align-items: center;
+}
+
+.align-end {
+	display: flex;
+	align-items: flex-end;
+}
+
+.text_word-break {
+	text-overflow: -o-ellipsis-lastline;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+input{
+	font-size: 28upx;
+}
